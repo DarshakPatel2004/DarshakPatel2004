@@ -198,9 +198,19 @@ graph TD
         Dash --> Alerts[Critical Alerts]
     end
 
-    style NVD fill:#f9f,stroke:#333,stroke-width:2px
-    style DB fill:#bbf,stroke:#333,stroke-width:2px
-    style Prod fill:#dfd,stroke:#333,stroke-width:2px
+    style NVD fill:#1f6feb,stroke:#58a6ff,color:#fff
+    style DB fill:#0d1117,stroke:#58a6ff,color:#fff
+    style Prod fill:#238636,stroke:#3fb950,color:#fff
+    style Sync fill:#161b22,stroke:#58a6ff,color:#fff
+    style Dedupe fill:#161b22,stroke:#58a6ff,color:#fff
+    style RuleGen fill:#161b22,stroke:#58a6ff,color:#fff
+    style Dash fill:#161b22,stroke:#58a6ff,color:#fff
+    
+    style Source_Integration fill:#0d1117,stroke:#30363d,color:#fff
+    style Sync_Engine fill:#0d1117,stroke:#30363d,color:#fff
+    style Processing fill:#0d1117,stroke:#30363d,color:#fff
+    style Auto_Gen fill:#0d1117,stroke:#30363d,color:#fff
+    style Dashboard fill:#0d1117,stroke:#30363d,color:#fff
 ```
 
 <details>
@@ -423,31 +433,31 @@ PHISHING URL INPUT
 **User Interface & Deployment:**
 
 ```
-┌─────────────────────────────────────────┐
-│  STREAMLIT DASHBOARD                    │
-├─────────────────────────────────────────┤
-│                                         │
-│ 📋 BATCH PROCESSING:                    │
-│  • Upload CSV with URLs                 │
-│  • Process 100+ URLs in seconds         │
-│  • Export results to JSON               │
-│                                         │
-│ 🔍 SINGLE URL CLASSIFICATION:           │
-│  • Real-time inference                  │
-│  • Confidence visualization             │
-│  • Model vote breakdown                 │
-│                                         │
-│ 📊 SOC CONTROL SIDEBAR:                 │
-│  • Statistics & metrics                 │
-│  • Historical data                      │
-│  • Export options                       │
-│                                         │
-│ 💾 JSON EXPORT:                         │
-│  • Structured output format             │
-│  • Integration-ready                    │
-│  • Timestamped results                  │
-│                                         │
-└─────────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           STREAMLIT DASHBOARD            │
+├──────────────────────────────────────────┤
+│                                          │
+│ 📋 BATCH PROCESSING:                     │
+│  • Upload CSV with URLs                  │
+│  • Process 100+ URLs in seconds          │
+│  • Export results to JSON                │
+│                                          │
+│ 🔍 SINGLE URL CLASSIFICATION:            │
+│  • Real-time inference                   │
+│  • Confidence visualization              │
+│  • Model vote breakdown                  │
+│                                          │
+│ 📊 SOC CONTROL SIDEBAR:                  │
+│  • Statistics & metrics                  │
+│  • Historical data                       │
+│  • Export options                        │
+│                                          │
+│ 💾 JSON EXPORT:                          │
+│  • Structured output format              │
+│  • Integration-ready                     │
+│  • Timestamped results                   │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 **Tech Stack:**
