@@ -8,7 +8,6 @@
 
 </div>
 
-
 <div align="center">
 
 [**Overview**](#-executive-overview) • [**Experience**](#-professional-experience) • [**Projects**](#-featured-projects) • [**Education**](#-education--certifications) • [**Skills**](#-technical-skills-matrix) • [**Connect**](#-connect-with-me)
@@ -31,7 +30,6 @@
 [![Cyber_First](https://img.shields.io/badge/Cyber_First-Internship_Completed-27AE60?style=flat-square)](https://cyberfirst.com)
 
 </div>
-
 
 ---
 
@@ -142,8 +140,7 @@
 
 **Timeline:** April 2026 - Present | **Status:** Active Development
 
-**Problem Solved:**
-CVE management is fragmented across multiple sources and requires manual updates. VulnForge automates threat intelligence aggregation, correlation, and rule generation.
+**Problem Solved:** CVE management is fragmented across multiple sources and requires manual updates. VulnForge automates threat intelligence aggregation, correlation, and rule generation.
 
 **System Architecture:**
 
@@ -272,7 +269,6 @@ graph TD
 
 </details>
 
-
 **Key Features:**
 
 | Feature | Details |
@@ -305,8 +301,7 @@ Database:     Append-only SQLite design
 
 **Timeline:** January 2026 - Present | **Status:** Development + Deployment
 
-**Problem Solved:**
-Phishing URLs evade traditional regex-based detection. PhishScope uses engineered features and ensemble ML to achieve 97% accuracy on real-world datasets.
+**Problem Solved:** Phishing URLs evade traditional regex-based detection. PhishScope uses engineered features and ensemble ML to achieve 97% accuracy on real-world datasets.
 
 **Technical Architecture:**
 
@@ -418,7 +413,6 @@ PHISHING URL INPUT
 
 </details>
 
-
 **Performance Metrics:**
 
 | Metric | Score |
@@ -477,20 +471,12 @@ Data Format:    CSV input / JSON output
 - 💾 **Production-ready** API & dashboard
 
 
-
 ## 🎓 **Education & Certifications**
 
 ### **👨‍🎓 MSc Digital Forensics & Information Security**
 **National Forensics Science University, Delhi | Graduation: 2026**
 
 **Specialized Coursework Completed:**
-- **Unit V: Machine Learning & Deep Learning for Cybersecurity** ✅
-  - Random Forest algorithms for classification
-  - Isolation Forest for anomaly detection
-  - LSTM networks for time-series threat detection
-  - Convolutional Neural Networks (CNNs) for pattern recognition
-  - Autoencoders for unsupervised learning
-  - Comprehensive pseudocode documentation
 
 **Core Competencies:**
 - Network Security & Cryptography (AES, RSA, ECC)
@@ -561,11 +547,16 @@ Data Format:    CSV input / JSON output
 
 <div align="center">
 
-[![Darshak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshakPatel2004&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/DarshakPatel2004)
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-80-58A6FF?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-3_days-orange?style=for-the-badge&logo=github&logoColor=white)
+![Member Since](https://img.shields.io/badge/Member_Since-Aug_2022-blueviolet?style=for-the-badge&logo=github&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DarshakPatel2004&theme=tokyonight)](https://git.io/streak-stats)
+<br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshakPatel2004&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/DarshakPatel2004)
+![Python](https://img.shields.io/badge/Python-Primary_Language-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Secondary-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Academic-007396?style=flat-square&logo=java&logoColor=white)
 
 </div>
 
@@ -575,7 +566,11 @@ Data Format:    CSV input / JSON output
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarshakPatel2004&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/DarshakPatel2004)
+![Cisco CCST](https://img.shields.io/badge/🏆_Cisco_CCST-Cybersecurity_Certified-00B4E4?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/🔬_10+_Forensic-Investigations_Completed-success?style=for-the-badge)
+![ML Project](https://img.shields.io/badge/🤖_PhishScope-97%25_Accuracy_Achieved-blueviolet?style=for-the-badge)
+![CVE Intel](https://img.shields.io/badge/🛡️_VulnForge-342K+_CVEs_Indexed-orange?style=for-the-badge)
+![MSc Research](https://img.shields.io/badge/🎓_NFSU-MSc_Final_Year_Researcher-2C5282?style=for-the-badge)
 
 </div>
 
