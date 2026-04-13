@@ -4,9 +4,10 @@
 
 ## *Cybersecurity Engineer | Digital Forensics Researcher | ML/AI Security Specialist*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=700&lines=MSc+Digital+Forensics+%40+NFSU+Delhi;Cyber+Security+Specialist;Building+VulnForge+%28342K%2B+CVE+Intel%29;PhishScope+%28ML+Phishing+Detection+97%25%29;5+OS+Digital+Forensics+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=MSc+Digital+Forensics+%40+NFSU+Delhi;Cyber+Security+Specialist;Building+VulnForge+%28342K%2B+CVE+Intel%29;PhishScope+%28ML+Phishing+Detection+97%25%29;5+OS+Digital+Forensics+Expert)](https://git.io/typing-svg)
 
 </div>
+
 
 <div align="center">
 
@@ -49,10 +50,9 @@
 
 ### 📊 **Operational Metrics**
 - **PhishScope:** 97% Accuracy (186K+ Dataset)
-- **VulnForge:** 342K+ CVEs (Automated Sync)
-- **Investigations:** 10+ High-Impact Cases
-- **Platform Expertise:** 5+ Operating Systems
-- **Malware Research:** 20+ Types Categorized
+- **VulnForge:** 342K+ CVE Intel Records
+- **Investigations:** 10+ High-Impact Case Files
+- **Platform Depth:** 5+ Operational Systems (Desktop/Mobile)
 
 </td>
 <td width="50%">
@@ -69,13 +69,12 @@
 │ Machine Learning Security   │
 │ • Phishing detection        │
 │ • Anomaly detection         │
-│ • Malware classification    │
 └─────────────────────────────┘
 ┌─────────────────────────────┐
 │ Digital Forensics           │
 │ • Multi-OS analysis         │
-│ • Evidence extraction      │
-│ • Chain of custody         │
+│ • Evidence extraction       │
+│ • Chain of custody          │
 └─────────────────────────────┘
 ```
 
@@ -405,88 +404,7 @@ Data Format:    CSV input / JSON output
 - 📈 **Ensemble approach** for robustness
 - 💾 **Production-ready** API & dashboard
 
----
 
-### **3. Malware Detection & Risk Ranking System**
-
-**Timeline:** June 2024 - October 2024 | **Status:** Completed
-
-**Objectives:**
-Build an automated malware detection system with risk categorization for 1M+ files monthly.
-
-**System Capabilities:**
-
-```mermaid
-graph TD
-    subgraph Detection ["1. Deep Learning Triage"]
-        Input[File Input] --> TF[TensorFlow Engine]
-        TF --> Features[Multi-layer Feature Extraction]
-        Features --> Classify{Malware Type?}
-    end
-
-    subgraph Coverage ["2. Threat Spectrum"]
-        Classify --> Rans[Ransomware/APT]
-        Classify --> Troj[Trojans/Backdoors]
-        Classify --> Bot[Botnets/Rootkits]
-        Classify --> Dark[Cryptominers/Spyware]
-    end
-
-    subgraph Response ["3. Risk & Mitigation"]
-        Classify --> Risk[Risk Ranking Engine]
-        Risk --> Alert[Automated Alerting]
-        Risk --> SIEM[SIEM/Slack Integration]
-        Risk --> Report[Executive Dashboards]
-    end
-
-    style Input fill:#f9f,stroke:#333,stroke-width:2px
-    style Classify fill:#bbf,stroke:#333,stroke-width:2px
-    style SIEM fill:#dfd,stroke:#333,stroke-width:2px
-```
-
-<details>
-<summary><b>View Classic Triage Architecture</b></summary>
-
-```text
-  [FILE INPUT (1M+ Monthly)]
-           │
-           ▼
-┌── [DEEP LEARNING CLASSIFICATION] ──────────────────────────┐
-│                                                            │
-│ ◆ INFRASTRUCTURE (TensorFlow)                              │
-│ ├─ Neural Network Architecture                             │
-│ ├─ Multi-layer Feature Extraction                          │
-│ ╰─ Real-time Triage Engine                                 │
-│                                                            │
-│ ◆ COVERAGE (20+ Types)                                     │
-│ ├─ Ransomware/APT          ├─ Trojans/Backdoors            │
-│ ├─ Botnets/Rootkits        ╰─ Cryptominers/Spyware         │
-│                                                            │
-└────────────────────────────┬───────────────────────────────┘
-                             │
-                             ▼
-┌── [RISK RANKING ENGINE] ───┴─── [ALERT & DASHBOARD] ───────┐
-│                                                            │
-│  [SEVERITY LEVELS]         [INCIDENT RESPONSE]             │
-│  ◆ CRITICAL (Ransomware)   ├─ Automated Alerting           │
-│  ◆ HIGH     (Trojans)      ├─ Slack/Email Integration      │
-│  ◆ MEDIUM   (Suspicious)   ├─ Timeline Analytics           │
-│  ◆ INFO     (Benign)       ╰─ Executive Reporting          │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-</details>
-
-
-**Results Achieved:**
-- 🔍 **96% Detection Accuracy** using predictive models
-- ⚡ **40% Faster** threat identification vs baseline
-- 📊 **1M+ Files** processed monthly
-- 📈 **5-Category Risk** classification system
-- 🎯 **20+ Malware Types** identified
-- 🚨 **Automated Alerting** for incident response
-
----
 
 ## 🎓 **Education & Certifications**
 
@@ -600,8 +518,7 @@ graph TD
 
 ### **🤝 Open for Collaboration**
 - Developing open-source threat intelligence modules.
-- Integrating ML into Digital Forensics workflows.
-- Academic research on automated malware triage.
+- **Open Research:** Exploring automated DFIR workflows.
 
 ### **💬 Let's Discuss**
 - Advanced threat detection & response
