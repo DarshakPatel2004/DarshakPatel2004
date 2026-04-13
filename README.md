@@ -1,18 +1,16 @@
 # <div align="center">
 #
 # ```
-#  ███████╗███████╗ ██████╗ █████╗ ██╗     ██╗████████╗██╗   ██╗
-#  ██╔════╝██╔════╝██╔════╝██╔══██╗██║     ██║╚══██╔══╝╚██╗ ██╔╝
-#  ███████╗█████╗  ██║     ███████║██║     ██║   ██║    ╚████╔╝ 
-#  ╚════██║██╔══╝  ██║     ██╔══██║██║     ██║   ██║     ╚██╔╝  
-#  ███████║███████╗╚██████╗██║  ██║███████╗██║   ██║      ██║   
-#  ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝   
+#    ___   ___   ___    ___  _   _   _   _  _____  __   __
+#   / __| / __| / _ \  | _ \| | | | | | | ||_   _| \ \ / /
+#   \__ \| (__ | (_) | |  _/| |_| | | |_| |  | |    \   / 
+#   |___/ \___| \___/  |_|   \___/   \___/   |_|     |_|  
 # ```
 #
 # # **🔐 Darshak Patel**
 # ## *Cybersecurity Engineer | Digital Forensics Researcher | ML/AI Security Specialist*
 #
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=700&lines=MSc+Digital+Forensics+%40+NFSU+Delhi;Cyber+First+Private+Limited+Intern;Building+VulnForge+%28342K%2B+CVE+Intel%29;PhishScope+%28ML+Phishing+Detection+97%25%29;5%2B+OS+Digital+Forensics+Expert)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=700&lines=MSc+Digital+Forensics+%40+NFSU+Delhi;Cyber+Security+Specialist;Building+VulnForge+%28342K%2B+CVE+Intel%29;PhishScope+%28ML+Phishing+Detection+97%25%29;5%2B+OS+Digital+Forensics+Expert)](https://git.io/typing-svg)
 #
 # </div>
 
@@ -24,7 +22,7 @@
 
 ![Cisco CCST](https://img.shields.io/badge/Cisco_CCST-Cybersecurity-00B4E4?style=flat-square)
 ![NFSU](https://img.shields.io/badge/NFSU-MSc_Student-2C5282?style=flat-square)
-![Cyber_First](https://img.shields.io/badge/Cyber_First-Active_Intern-27AE60?style=flat-square)
+![Cyber_First](https://img.shields.io/badge/Cyber_First-Internship_Completed-27AE60?style=flat-square)
 
 </div>
 
@@ -36,41 +34,40 @@
 <tr>
 <td width="50%">
 
-### 🎯 **Career Profile**
-- **Current Role:** Cyber Security Intern @ Cyber First Private Limited
-- **Education:** MSc Digital Forensics @ NFSU Delhi | BTech CSE (7.39/10) @ MIT ADT
-- **Certification:** Cisco CCST Cybersecurity (2025)
-- **Focus:** Threat Intelligence, ML Security, Digital Forensics Automation
-- **Location:** Pune, Maharashtra, India
+### 🎯 **Career Strategic Profile**
+- **Education:** MSc Digital Forensics @ **NFSU Delhi** (2026)
+- **Background:** BTech CSE @ **MIT ADT** (GPA: 7.39/10)
+- **Certification:** Cisco CCST Cybersecurity
+- **Domain:** Threat Intelligence & DFIR Automation
+- **Status:** Final Year Researcher | Open for 2026 Roles
 
-### 📊 **Key Metrics**
-- **97%** Phishing detection accuracy
-- **342K+** CVE records aggregated
-- **186K+** URLs in ML training dataset
-- **20+** malware types identified
-- **10+** forensic investigations completed
-- **5+** operating systems expertise
+### 📊 **Operational Metrics**
+- **PhishScope:** 97% Accuracy (186K+ Dataset)
+- **VulnForge:** 342K+ CVEs (Automated Sync)
+- **Investigations:** 10+ High-Impact Cases
+- **Platform Expertise:** 5+ Operating Systems
+- **Malware Research:** 20+ Types Categorized
 
 </td>
 <td width="50%">
 
-### 🛠️ **Active Expertise**
+### 🛠️ **Command Center**
 ```
-┌─────────────────────────────┐
+╭─────────────────────────────╮
 │ Threat Intelligence         │
-│ • CVE aggregation          │
-│ • Automated rule gen       │
-│ • Risk ranking             │
+│ • CVE aggregation           │
+│ • Automated rule gen        │
+│ • Risk ranking              │
 └─────────────────────────────┘
 ┌─────────────────────────────┐
 │ Machine Learning Security   │
-│ • Phishing detection       │
-│ • Anomaly detection        │
-│ • Malware classification   │
+│ • Phishing detection        │
+│ • Anomaly detection         │
+│ • Malware classification    │
 └─────────────────────────────┘
 ┌─────────────────────────────┐
-│ Digital Forensics          │
-│ • Multi-OS analysis        │
+│ Digital Forensics           │
+│ • Multi-OS analysis         │
 │ • Evidence extraction      │
 │ • Chain of custody         │
 └─────────────────────────────┘
@@ -378,72 +375,33 @@ Build an automated malware detection system with risk categorization for 1M+ fil
 
 **System Capabilities:**
 
-```
-FILE INPUT (1M+ monthly)
-       ↓
-┌──────────────────────────────────────────┐
-│  ML-BASED CLASSIFICATION                 │
-├──────────────────────────────────────────┤
-│                                          │
-│ Deep Learning Model (TensorFlow):        │
-│ • Neural network architecture            │
-│ • Multi-layer feature extraction         │
-│ • Real-time classification               │
-│                                          │
-│ Detection Coverage:                      │
-│ 20+ distinct malware types               │
-│ • Trojans, Ransomware, Spyware          │
-│ • Worms, Backdoors, Rootkits             │
-│ • Botnets, Cryptominers, etc.            │
-│                                          │
-└──────────────────────────────────────────┘
-       ↓
-┌──────────────────────────────────────────┐
-│  RISK RANKING ENGINE                     │
-├──────────────────────────────────────────┤
-│                                          │
-│ Category 1: CRITICAL (Red)               │
-│  └─ Immediate action required            │
-│     (Ransomware, rootkits, APTs)        │
-│                                          │
-│ Category 2: HIGH (Orange)                │
-│  └─ Urgent security review               │
-│     (Trojans, backdoors)                 │
-│                                          │
-│ Category 3: MEDIUM (Yellow)              │
-│  └─ Monitor and track closely            │
-│     (PUPs, suspicious behavior)          │
-│                                          │
-│ Category 4: LOW (Green)                  │
-│  └─ Standard security procedures         │
-│     (Minor risks, false positives)      │
-│                                          │
-│ Category 5: INFO (Blue)                  │
-│  └─ Reference only                       │
-│     (Known benign, archives)             │
-│                                          │
-└──────────────────────────────────────────┘
-       ↓
-┌──────────────────────────────────────────┐
-│  ALERT & DASHBOARD SYSTEM                │
-├──────────────────────────────────────────┤
-│                                          │
-│ Real-time Alerts:                       │
-│ • Email/Slack notifications             │
-│ • Severity-based routing                │
-│ • Incident creation                     │
-│                                          │
-│ Visualization:                          │
-│ • Risk distribution charts              │
-│ • Timeline analytics                    │
-│ • Threat landscape overview             │
-│                                          │
-│ Reporting:                              │
-│ • Automated threat reports              │
-│ • Executive dashboards                  │
-│ • Historical trending                   │
-│                                          │
-└──────────────────────────────────────────┘
+```text
+  [FILE INPUT (1M+ Monthly)]
+           │
+           ▼
+┌── [DEEP LEARNING CLASSIFICATION] ──────────────────────────┐
+│                                                            │
+│ ◆ INFRASTRUCTURE (TensorFlow)                              │
+│ ├─ Neural Network Architecture                             │
+│ ├─ Multi-layer Feature Extraction                          │
+│ ╰─ Real-time Triage Engine                                 │
+│                                                            │
+│ ◆ COVERAGE (20+ Types)                                     │
+│ ├─ Ransomware/APT          ├─ Trojans/Backdoors            │
+│ ├─ Botnets/Rootkits        ╰─ Cryptominers/Spyware         │
+│                                                            │
+└────────────────────────────┬───────────────────────────────┘
+                             │
+                             ▼
+┌── [RISK RANKING ENGINE] ───┴─── [ALERT & DASHBOARD] ───────┐
+│                                                            │
+│  [SEVERITY LEVELS]         [INCIDENT RESPONSE]             │
+│  ◆ CRITICAL (Ransomware)   ├─ Automated Alerting           │
+│  ◆ HIGH     (Trojans)      ├─ Slack/Email Integration      │
+│  ◆ MEDIUM   (Suspicious)   ├─ Timeline Analytics           │
+│  ◆ INFO     (Benign)       ╰─ Executive Reporting          │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 **Results Achieved:**
@@ -537,31 +495,25 @@ FILE INPUT (1M+ monthly)
 | **NMap** | Network reconnaissance | Intermediate |
 | **Wazuh** | SIEM & threat detection | Intermediate |
 
-### **Machine Learning & Data Science**
+### **Machine Learning & AI**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### **Backend & Databases**
+### **Backend & Security Infrastructure**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Frontend & UI**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-
-### **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
+
+### **Frontend & Visualization**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -589,19 +541,17 @@ FILE INPUT (1M+ monthly)
 
 ---
 
-## 🎯 **Looking For Opportunities**
+## 🎯 **Current Objectives (2026)**
 
-### **🤝 Collaboration & Research**
-- Threat intelligence platform development
-- ML-based security automation
-- Digital forensics tooling
-- Academic cybersecurity research partnerships
+### **💼 Career Trajectory**
+- **MS in Cybersecurity:** Actively preparing for advanced studies in US/UK/EU (Fall 2026).
+- **Security Research:** Seeking roles in Threat Intelligence, DFIR, or Security Automation.
+- **Certifications:** Pursuing OSCP and GIAC specialized credentials.
 
-### **💼 Career Goals**
-- MS in Cybersecurity (US, UK, Canada, EU universities)
-- Advanced security certifications (Security+, OSCP, GIAC)
-- Bug bounty & vulnerability research programs
-- Security research internships
+### **🤝 Open for Collaboration**
+- Developing open-source threat intelligence modules.
+- Integrating ML into Digital Forensics workflows.
+- Academic research on automated malware triage.
 
 ### **💬 Let's Discuss**
 - Advanced threat detection & response
@@ -638,6 +588,6 @@ FILE INPUT (1M+ monthly)
 
 *"Security is not a feature. It's a foundation for trust."*
 
-**January 2026 | Driven by Curiosity & Innovation**
+**April 2026 | Driven by Curiosity & Innovation**
 
 </div>
