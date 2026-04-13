@@ -1,30 +1,36 @@
-# <div align="center">
-#
-# ```
-#    ___   ___   ___    ___  _   _   _   _  _____  __   __
-#   / __| / __| / _ \  | _ \| | | | | | | ||_   _| \ \ / /
-#   \__ \| (__ | (_) | |  _/| |_| | | |_| |  | |    \   / 
-#   |___/ \___| \___/  |_|   \___/   \___/   |_|     |_|  
-# ```
-#
-# # **🔐 Darshak Patel**
-# ## *Cybersecurity Engineer | Digital Forensics Researcher | ML/AI Security Specialist*
-#
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=700&lines=MSc+Digital+Forensics+%40+NFSU+Delhi;Cyber+Security+Specialist;Building+VulnForge+%28342K%2B+CVE+Intel%29;PhishScope+%28ML+Phishing+Detection+97%25%29;5%2B+OS+Digital+Forensics+Expert)](https://git.io/typing-svg)
-#
-# </div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DARSHAK+PATEL)](https://git.io/typing-svg)
+
+## *Cybersecurity Engineer | Digital Forensics Researcher | ML/AI Security Specialist*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=700&lines=MSc+Digital+Forensics+%40+NFSU+Delhi;Cyber+Security+Specialist;Building+VulnForge+%28342K%2B+CVE+Intel%29;PhishScope+%28ML+Phishing+Detection+97%25%29;5+OS+Digital+Forensics+Expert)](https://git.io/typing-svg)
+
+</div>
 
 <div align="center">
 
-**📍 Pune, Maharashtra, India** | **📧 darshakpatel2004@gmail.com** | **📱 +91-9823771052**
-
-[GitHub](https://github.com/DarshakPatel2004) • [LinkedIn](https://linkedin.com/in/darshakpatel2004) • [Discord](https://discord.gg/darshakpatel.) • [Email](mailto:darshakpatel2004@gmail.com)
-
-![Cisco CCST](https://img.shields.io/badge/Cisco_CCST-Cybersecurity-00B4E4?style=flat-square)
-![NFSU](https://img.shields.io/badge/NFSU-MSc_Student-2C5282?style=flat-square)
-![Cyber_First](https://img.shields.io/badge/Cyber_First-Internship_Completed-27AE60?style=flat-square)
+[**Overview**](#-executive-overview) • [**Experience**](#-professional-experience) • [**Projects**](#-featured-projects) • [**Education**](#-education--certifications) • [**Skills**](#-technical-skills-matrix) • [**Connect**](#-connect-with-me)
 
 </div>
+
+<div align="center">
+
+### **🛸 Active Intelligence Stream**
+[![VulnForge Status](https://img.shields.io/badge/VulnForge-342K_CVEs-blueviolet?style=for-the-badge&logo=googlesheets)](https://github.com/DarshakPatel2004)
+[![PhishScope Status](https://img.shields.io/badge/PhishScope-97%25_Acc-success?style=for-the-badge&logo=tensorflow)](https://github.com/DarshakPatel2004)
+[![Forensics Status](https://img.shields.io/badge/Case_Files-10+_Analyzed-orange?style=for-the-badge&logo=linux)](https://github.com/DarshakPatel2004)
+
+<br/>
+
+**📍 Pune, Maharashtra, India** | **📧 darshakpatel2004@gmail.com** | **📱 +91-9823771052**
+
+[![Cisco CCST](https://img.shields.io/badge/Cisco_CCST-Cybersecurity-00B4E4?style=flat-square)](https://cisco.com)
+[![NFSU](https://img.shields.io/badge/NFSU-MSc_Student-2C5282?style=flat-square)](https://nfsu.ac.in)
+[![Cyber_First](https://img.shields.io/badge/Cyber_First-Internship_Completed-27AE60?style=flat-square)](https://cyberfirst.com)
+
+</div>
+
 
 ---
 
@@ -233,6 +239,38 @@ Phishing URLs evade traditional regex-based detection. PhishScope uses engineere
 
 **Technical Architecture:**
 
+```mermaid
+graph LR
+    URL[URL Input] --> FE[Feature Engineering]
+    FE --> Structural[Structural Features]
+    FE --> Lexical[Lexical Features]
+    FE --> Brand[Brand Similarity]
+
+    Structural --> TFIDF[TF-IDF Vectorization]
+    Lexical --> TFIDF
+    Brand --> TFIDF
+
+    TFIDF --> Ensemble{Ensemble Model}
+    
+    subgraph Models
+        LR[LR Classifier]
+        RF[Random Forest]
+        XGB[XGBoost]
+    end
+
+    Ensemble --> Models
+    Models --> Vote[Hard Voting]
+    Vote --> Result[Prediction Result]
+
+    style URL fill:#f96,stroke:#333,stroke-width:2px
+    style FE fill:#bbf,stroke:#333,stroke-width:2px
+    style Models fill:#dfd,stroke:#333,stroke-width:2px
+    style Result fill:#f66,stroke:#333,stroke-width:2px
+```
+
+<details>
+<summary><b>View Classic Diagnostic Architecture</b></summary>
+
 ```
 PHISHING URL INPUT
        ↓
@@ -307,6 +345,9 @@ PHISHING URL INPUT
 └──────────────────────────────────────────┘
 ```
 
+</details>
+
+
 **Performance Metrics:**
 
 | Metric | Score |
@@ -375,6 +416,36 @@ Build an automated malware detection system with risk categorization for 1M+ fil
 
 **System Capabilities:**
 
+```mermaid
+graph TD
+    subgraph Detection ["1. Deep Learning Triage"]
+        Input[File Input] --> TF[TensorFlow Engine]
+        TF --> Features[Multi-layer Feature Extraction]
+        Features --> Classify{Malware Type?}
+    end
+
+    subgraph Coverage ["2. Threat Spectrum"]
+        Classify --> Rans[Ransomware/APT]
+        Classify --> Troj[Trojans/Backdoors]
+        Classify --> Bot[Botnets/Rootkits]
+        Classify --> Dark[Cryptominers/Spyware]
+    end
+
+    subgraph Response ["3. Risk & Mitigation"]
+        Classify --> Risk[Risk Ranking Engine]
+        Risk --> Alert[Automated Alerting]
+        Risk --> SIEM[SIEM/Slack Integration]
+        Risk --> Report[Executive Dashboards]
+    end
+
+    style Input fill:#f9f,stroke:#333,stroke-width:2px
+    style Classify fill:#bbf,stroke:#333,stroke-width:2px
+    style SIEM fill:#dfd,stroke:#333,stroke-width:2px
+```
+
+<details>
+<summary><b>View Classic Triage Architecture</b></summary>
+
 ```text
   [FILE INPUT (1M+ Monthly)]
            │
@@ -403,6 +474,9 @@ Build an automated malware detection system with risk categorization for 1M+ fil
 │                                                            │
 └────────────────────────────────────────────────────────────┘
 ```
+
+</details>
+
 
 **Results Achieved:**
 - 🔍 **96% Detection Accuracy** using predictive models
@@ -466,54 +540,30 @@ Build an automated malware detection system with risk categorization for 1M+ fil
 
 ---
 
-## 💻 **Technical Skills Matrix**
+## 💻 **Technical Intelligence Matrix**
 
-### **Programming Languages**
-| Language | Proficiency | Projects |
-|----------|------------|----------|
-| **Python** | Expert | VulnForge, PhishScope, ML projects |
-| **JavaScript** | Advanced | React frontend development |
-| **Bash** | Advanced | System administration, automation |
-| **Java** | Intermediate | Algorithms, data structures |
-| **C** | Intermediate | Low-level programming, systems |
+> [!TIP]
+> I specialize in the intersection of **Artificial Intelligence** and **Cybersecurity Operations**, focusing on automating threat detection pipelines.
 
-### **Forensics & Investigation Tools**
-| Tool | Use Case | Proficiency |
-|------|----------|------------|
-| **Cellebrite UFED** | Mobile device extraction | Expert |
-| **Magnet Axiom** | Multi-device investigation | Expert |
-| **Oxygen Forensic Detective** | Mobile analysis | Advanced |
-| **Mobiledit Forensic Express** | Device forensics | Advanced |
-| **IDA Pro** | Reverse engineering | Intermediate |
-| **Ghidra** | Binary analysis | Intermediate |
+<div align="center">
 
-### **Security & Pen Testing**
-| Tool | Application | Level |
-|------|-------------|-------|
-| **Burp Suite** | Web vulnerability scanning | Advanced |
-| **Wireshark** | Network packet analysis | Advanced |
-| **NMap** | Network reconnaissance | Intermediate |
-| **Wazuh** | SIEM & threat detection | Intermediate |
+### **🛠 Core Engineering Stack**
 
-### **Machine Learning & AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+| Sector | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Forensics** | **Cellebrite UFED** • **Magnet Axiom** • **Oxygen Forensic** • **IDA Pro** • **Ghidra** |
+| **ML & AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat) |
+| **AppSec** | **Burp Suite** • **Wireshark** • **NMap** • **Wazuh (SIEM)** • **OWASP Testing** |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
 
-### **Backend & Security Infrastructure**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
 
-### **Frontend & Visualization**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
+
+> [!IMPORTANT]
+> **Seeking Opportunities:** I am currently open to Fall 2026 internships and full-time roles in **Threat Intel**, **DFIR**, and **Security Data Science**.
 
 ---
 
