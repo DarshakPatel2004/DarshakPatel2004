@@ -147,6 +147,65 @@ CVE management is fragmented across multiple sources and requires manual updates
 
 **System Architecture:**
 
+```mermaid
+graph TD
+    subgraph Source_Integration ["1. CVE Source Integration"]
+        NVD[NVD - 342K+ Records]
+        CISA[CISA KEV]
+        OTX[AlienVault OTX]
+        Dedupe[Unified Data Ingestion & Deduplication]
+        
+        NVD --> Dedupe
+        CISA --> Dedupe
+        OTX --> Dedupe
+    end
+
+    subgraph Sync_Engine ["2. Sync Engine & Scheduling"]
+        Dedupe --> Sync[Sync Engine]
+        Sched[APScheduler]
+        Sched -->|Daily Full 02:00 UTC| Sync
+        Sched -->|Hourly Incremental| Sync
+    end
+
+    subgraph Processing ["3. Intelligence Processing"]
+        Sync --> Parsing[CVE Parsing]
+        Parsing --> Linking[CPE String Linking]
+        Linking --> Scoring[CVSS Scoring]
+        
+        Parsing --> Extraction[Metadata Extraction]
+        Linking --> Asset[Asset Mapping]
+        Scoring --> Risk[Risk Ranking]
+        
+        Extraction --> DB[(SQLite Database)]
+        Asset --> DB
+        Risk --> DB
+    end
+
+    subgraph Auto_Gen ["4. Detection Rule Auto-Gen"]
+        DB --> RuleGen[Detection Rule Generator]
+        RuleGen --> Snort[Snort/Suricata]
+        RuleGen --> Sigma[Sigma SIEM]
+        RuleGen --> JSON[JSON Alert Templates]
+        
+        Snort & Sigma & JSON --> Export[Single-Click Export]
+        Export --> Prod[Prod-Ready Rules]
+    end
+
+    subgraph Dashboard ["5. Real-Time Dashboard"]
+        Prod --> Dash[Operational Dashboard]
+        Dash --> Timeline[Timeline View]
+        Dash --> Map[Vulnerability Map]
+        Dash --> Alerts[Critical Alerts]
+    end
+
+    style NVD fill:#f9f,stroke:#333,stroke-width:2px
+    style DB fill:#bbf,stroke:#333,stroke-width:2px
+    style Prod fill:#dfd,stroke:#333,stroke-width:2px
+```
+
+<details>
+<summary><b>View Classic Architectural Model</b></summary>
+
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                     CVE SOURCE INTEGRATION                        │
@@ -200,6 +259,9 @@ CVE management is fragmented across multiple sources and requires manual updates
 │ • Rule Generation Log  • Export History                         │
 └──────────────────────────────────────────────────────────────────┘
 ```
+
+</details>
+
 
 **Key Features:**
 
@@ -469,10 +531,10 @@ Data Format:    CSV input / JSON output
 
 | Sector | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 | **Forensics** | **Cellebrite UFED** • **Magnet Axiom** • **Oxygen Forensic** • **IDA Pro** • **Ghidra** |
-| **ML & AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat) |
+| **ML & AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=flat) |
 | **AppSec** | **Burp Suite** • **Wireshark** • **NMap** • **Wazuh (SIEM)** • **OWASP Testing** |
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
 
@@ -489,11 +551,11 @@ Data Format:    CSV input / JSON output
 
 <div align="center">
 
-[![Darshak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshakPatel2004&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&icon_color=58a6ff&count_private=true&include_all_commits=true&line_height=27)](https://github.com/DarshakPatel2004)
+[![Darshak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshakPatel2004&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/DarshakPatel2004)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DarshakPatel2004&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DarshakPatel2004&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshakPatel2004&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=10)](https://github.com/DarshakPatel2004)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshakPatel2004&theme=tokyonight&layout=compact&langs_count=10)](https://github.com/DarshakPatel2004)
 
 </div>
 
@@ -503,7 +565,7 @@ Data Format:    CSV input / JSON output
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarshakPatel2004&theme=tokyonight&no-frame=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&margin-w=3&margin-h=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/DarshakPatel2004)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarshakPatel2004&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/DarshakPatel2004)
 
 </div>
 
@@ -514,7 +576,7 @@ Data Format:    CSV input / JSON output
 ### **💼 Career Trajectory**
 - **MS in Cybersecurity:** Actively preparing for advanced studies in US/UK/EU (Fall 2026).
 - **Security Research:** Seeking roles in Threat Intelligence, DFIR, or Security Automation.
-- **Certifications:** Pursuing OSCP and GIAC specialized credentials.
+- **Certifications:** Pursuing OSCP and EC-Council specialized credentials.
 
 ### **🤝 Open for Collaboration**
 - Developing open-source threat intelligence modules.
