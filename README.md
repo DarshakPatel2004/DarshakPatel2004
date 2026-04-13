@@ -1,27 +1,643 @@
-# 💫 About Me:
-I'm currently working on cyber security projects which tackles real case scenarios <br>I'm looking to collaborate on any type of security project<br>I'm looking for help with good ideas to work and implement on<br>I'm currently learning digital forensics and information security <br>Ask me about anything<br>Fun fact I love exploring new tools and ideas
+# <div align="center">
+#
+# ```
+#  ███████╗███████╗ ██████╗ █████╗ ██╗     ██╗████████╗██╗   ██╗
+#  ██╔════╝██╔════╝██╔════╝██╔══██╗██║     ██║╚══██╔══╝╚██╗ ██╔╝
+#  ███████╗█████╗  ██║     ███████║██║     ██║   ██║    ╚████╔╝ 
+#  ╚════██║██╔══╝  ██║     ██╔══██║██║     ██║   ██║     ╚██╔╝  
+#  ███████║███████╗╚██████╗██║  ██║███████╗██║   ██║      ██║   
+#  ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝   
+# ```
+#
+# # **🔐 Darshak Patel**
+# ## *Cybersecurity Engineer | Digital Forensics Researcher | ML/AI Security Specialist*
+#
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=700&lines=MSc+Digital+Forensics+%40+NFSU+Delhi;Cyber+First+Private+Limited+Intern;Building+VulnForge+%28342K%2B+CVE+Intel%29;PhishScope+%28ML+Phishing+Detection+97%25%29;5%2B+OS+Digital+Forensics+Expert)](https://git.io/typing-svg)
+#
+# </div>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/darshakpatel.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diku_9603) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshakpatel2004) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LocksmithSea713) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Darshak48502) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshakpatel2004@gmail.com) 
+**📍 Pune, Maharashtra, India** | **📧 darshakpatel2004@gmail.com** | **📱 +91-9823771052**
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DarshakPatel2004&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=DarshakPatel2004&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DarshakPatel2004&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[GitHub](https://github.com/DarshakPatel2004) • [LinkedIn](https://linkedin.com/in/darshakpatel2004) • [Discord](https://discord.gg/darshakpatel.) • [Email](mailto:darshakpatel2004@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DarshakPatel2004&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![Cisco CCST](https://img.shields.io/badge/Cisco_CCST-Cybersecurity-00B4E4?style=flat-square)
+![NFSU](https://img.shields.io/badge/NFSU-MSc_Student-2C5282?style=flat-square)
+![Cyber_First](https://img.shields.io/badge/Cyber_First-Active_Intern-27AE60?style=flat-square)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DarshakPatel2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=DarshakPatel2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📋 **Executive Overview**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Career Profile**
+- **Current Role:** Cyber Security Intern @ Cyber First Private Limited
+- **Education:** MSc Digital Forensics @ NFSU Delhi | BTech CSE (7.39/10) @ MIT ADT
+- **Certification:** Cisco CCST Cybersecurity (2025)
+- **Focus:** Threat Intelligence, ML Security, Digital Forensics Automation
+- **Location:** Pune, Maharashtra, India
+
+### 📊 **Key Metrics**
+- **97%** Phishing detection accuracy
+- **342K+** CVE records aggregated
+- **186K+** URLs in ML training dataset
+- **20+** malware types identified
+- **10+** forensic investigations completed
+- **5+** operating systems expertise
+
+</td>
+<td width="50%">
+
+### 🛠️ **Active Expertise**
+```
+┌─────────────────────────────┐
+│ Threat Intelligence         │
+│ • CVE aggregation          │
+│ • Automated rule gen       │
+│ • Risk ranking             │
+└─────────────────────────────┘
+┌─────────────────────────────┐
+│ Machine Learning Security   │
+│ • Phishing detection       │
+│ • Anomaly detection        │
+│ • Malware classification   │
+└─────────────────────────────┘
+┌─────────────────────────────┐
+│ Digital Forensics          │
+│ • Multi-OS analysis        │
+│ • Evidence extraction      │
+│ • Chain of custody         │
+└─────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 **Professional Experience**
+
+### **🔍 Cyber Security Intern**
+**Cyber First Private Limited | November 2024 - May 2025 | Pune, Maharashtra**
+
+**Domain:** Digital Forensics & Cyber Incident Investigation
+
+**Accomplishments:**
+- ✅ Conducted **10+ critical forensic investigations** with comprehensive evidence analysis
+- ✅ Expertise across **5+ diverse operating systems** (Windows, Linux, macOS, iOS, Android)
+- ✅ Extracted & analyzed digital evidence from **10+ computers** & **10+ mobile devices**
+- ✅ Applied advanced forensic techniques:
+  - Memory dump analysis & RAM recovery
+  - File system forensics & data carving
+  - Mobile device extraction & analysis
+  - Network traffic forensics
+  - Malware triage & reverse engineering basics
+  - Chain-of-custody documentation
+
+**Tools & Technologies Used:**
+```
+┌─────────────────────────────────────────┐
+│ Mobile Forensics Tools                  │
+├─────────────────────────────────────────┤
+│ • Cellebrite UFED → Device extraction   │
+│ • Magnet Axiom → Multi-device analysis  │
+│ • Oxygen Forensic Detective → Mobile    │
+│ • Mobiledit Forensic Express → Analysis │
+└─────────────────────────────────────────┘
+┌─────────────────────────────────────────┐
+│ Malware Analysis & Reverse Engineering  │
+├─────────────────────────────────────────┤
+│ • IDA Pro → Disassembly & debugging     │
+│ • Ghidra → Binary analysis              │
+│ • Burp Suite → Web vulnerability scan   │
+└─────────────────────────────────────────┘
+┌─────────────────────────────────────────┐
+│ Network & SIEM Analysis                 │
+├─────────────────────────────────────────┤
+│ • Wireshark → Packet analysis           │
+│ • NMap → Network reconnaissance         │
+│ • Wazuh → SIEM & threat detection       │
+└─────────────────────────────────────────┘
+```
+
+**Impact:**
+- Directly contributed to 10+ ongoing investigation processes
+- Demonstrated proficiency in multi-platform forensic analysis
+- Built strong foundation for evidence handling & documentation
+
+---
+
+## 🚀 **Featured Projects**
+
+### **1. VulnForge 🔥 — Automated Threat Intelligence Platform**
+
+**Timeline:** April 2026 - Present | **Status:** Active Development
+
+**Problem Solved:**
+CVE management is fragmented across multiple sources and requires manual updates. VulnForge automates threat intelligence aggregation, correlation, and rule generation.
+
+**System Architecture:**
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                     CVE SOURCE INTEGRATION                        │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  NVD (342K+ Records)  ──┐                                        │
+│                         ├─→ Unified Data Ingestion ──┐           │
+│  CISA KEV  ─────────────┤   & Deduplication         │           │
+│                         ├─→                          ├─→ ┌────┐  │
+│  AlienVault OTX  ───────┘                           │   │SYNC│  │
+│                                                      └──→│ENG │  │
+│                                                         └────┘  │
+│                                                          ↓      │
+│                                  ┌──────────────────────────┐  │
+│                                  │  APScheduler            │  │
+│                                  ├──────────────────────────┤  │
+│                                  │ Daily Full: 02:00 UTC   │  │
+│                                  │ Hourly Inc: Every hour  │  │
+│                                  │ (Zero manual labor)      │  │
+│                                  └──────────────────────────┘  │
+└──────────────────────────────────────────────────────────────────┘
+                                   ↓
+┌──────────────────────────────────────────────────────────────────┐
+│                  INTELLIGENCE PROCESSING                          │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  CVE Parsing  →  CPE String Linking  →  CVSS Scoring           │
+│       ↓                ↓                     ↓                   │
+│  Metadata Extraction → Asset Mapping → Risk Ranking             │
+│                                                                  │
+│  Output: Structured CVE Intelligence in SQLite Database         │
+└──────────────────────────────────────────────────────────────────┘
+                                   ↓
+┌──────────────────────────────────────────────────────────────────┐
+│              DETECTION RULE AUTO-GENERATION                      │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  Format 1: Snort/Suricata Rules    →  IDS Deployment           │
+│  Format 2: Sigma SIEM Rules        →  SIEM Integration         │
+│  Format 3: JSON Alert Templates    →  Custom Tools              │
+│                                                                  │
+│  Single-Click Export → Prod-Ready Rules                         │
+└──────────────────────────────────────────────────────────────────┘
+                                   ↓
+┌──────────────────────────────────────────────────────────────────┐
+│                    REAL-TIME DASHBOARD                           │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│ • CVE Timeline View    • Asset Vulnerability Map               │
+│ • Critical Alerts      • Trend Analysis                         │
+│ • Rule Generation Log  • Export History                         │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+**Key Features:**
+
+| Feature | Details |
+|---------|---------|
+| **Data Sources** | NVD, CISA KEV, AlienVault OTX (3 integrated feeds) |
+| **Database Size** | 342,000+ CVE records aggregated |
+| **Update Schedule** | Daily full sync @ 02:00 UTC + Hourly incremental |
+| **Asset Tracking** | CPE-to-infrastructure mapping & auto-discovery |
+| **Rule Generation** | 3 formats: Snort/Suricata, Sigma, JSON |
+| **Deployment** | Single-click export, production-ready |
+
+**Tech Stack:**
+```
+Backend:      Python • FastAPI • SQLite
+Frontend:     React 18 • Vite
+Scheduling:   APScheduler (for automated syncs)
+Deployment:   Docker-ready architecture
+Database:     Append-only SQLite design
+```
+
+**Metrics:**
+- ⚡ **Zero manual updates** (fully automated)
+- 📊 **342K+ CVEs** in unified database
+- 🎯 **3 output formats** for multi-tool support
+- 🔄 **2 sync schedules** for data freshness
+
+---
+
+### **2. PhishScope 🎯 — ML-Powered Phishing Detection Engine**
+
+**Timeline:** January 2026 - Present | **Status:** Development + Deployment
+
+**Problem Solved:**
+Phishing URLs evade traditional regex-based detection. PhishScope uses engineered features and ensemble ML to achieve 97% accuracy on real-world datasets.
+
+**Technical Architecture:**
+
+```
+PHISHING URL INPUT
+       ↓
+┌──────────────────────────────────────────┐
+│  FEATURE ENGINEERING PIPELINE             │
+├──────────────────────────────────────────┤
+│                                          │
+│ STRUCTURAL FEATURES (12 features):       │
+│ • URL length & depth                    │
+│ • Subdomain count & entropy             │
+│ • Query parameter count                 │
+│ • Fragment & scheme analysis            │
+│ • Domain name structure                 │
+│                                          │
+│ LEXICAL FEATURES (8 features):          │
+│ • Digit ratio & special char ratio     │
+│ • Entropy & entropy variance            │
+│ • Alphabetic character distribution     │
+│ • Character set analysis                │
+│                                          │
+│ BRAND SIMILARITY (3+ features):         │
+│ • Levenshtein distance scoring          │
+│ • Known brand database matching         │
+│ • TLD reputation scoring                │
+│ • Homograph attack detection            │
+│                                          │
+│ Total: 20+ Engineered Features          │
+└──────────────────────────────────────────┘
+       ↓
+┌──────────────────────────────────────────┐
+│  TF-IDF VECTORIZATION                    │
+├──────────────────────────────────────────┤
+│ • Character n-gram analysis (2-grams)    │
+│ • Term frequency weighting               │
+│ • Feature normalization                  │
+└──────────────────────────────────────────┘
+       ↓
+┌──────────────────────────────────────────┐
+│  ENSEMBLE ML CLASSIFICATION               │
+├──────────────────────────────────────────┤
+│                                          │
+│ Model 1: Logistic Regression            │
+│ ├─ Probability: Phishing vs Legitimate  │
+│ ├─ Confidence score                     │
+│ └─ Fast inference                       │
+│                                          │
+│ Model 2: Random Forest (100 trees)      │
+│ ├─ Feature importance ranking           │
+│ ├─ Robust to outliers                   │
+│ └─ Ensemble voting                      │
+│                                          │
+│ Model 3: XGBoost Gradient Booster       │
+│ ├─ Gradient boosted decision trees      │
+│ ├─ High precision tuning                │
+│ └─ Best single model accuracy           │
+│                                          │
+│ VOTING STRATEGY:                        │
+│ Hard voting (majority) for final output │
+│                                          │
+└──────────────────────────────────────────┘
+       ↓
+┌──────────────────────────────────────────┐
+│  PREDICTION OUTPUT                       │
+├──────────────────────────────────────────┤
+│                                          │
+│ Classification: Phishing OR Legitimate  │
+│ Confidence Score: 0.0 - 1.0             │
+│ Model Votes: (LR, RF, XGB)              │
+│ Feature Importance: Top 5 features      │
+│ Reasoning: Explainability               │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+**Performance Metrics:**
+
+| Metric | Score |
+|--------|-------|
+| **Accuracy** | 97% ✓ |
+| **Precision** | 0.97 (Low false positives) |
+| **Recall** | 0.97 (Catches true cases) |
+| **F1-Score** | 0.97 (Balanced performance) |
+| **Training Data** | 186,230+ URLs |
+| **Test Dataset** | Balanced phishing & legitimate URLs |
+
+**User Interface & Deployment:**
+
+```
+┌─────────────────────────────────────────┐
+│  STREAMLIT DASHBOARD                    │
+├─────────────────────────────────────────┤
+│                                         │
+│ 📋 BATCH PROCESSING:                    │
+│  • Upload CSV with URLs                 │
+│  • Process 100+ URLs in seconds         │
+│  • Export results to JSON               │
+│                                         │
+│ 🔍 SINGLE URL CLASSIFICATION:           │
+│  • Real-time inference                  │
+│  • Confidence visualization             │
+│  • Model vote breakdown                 │
+│                                         │
+│ 📊 SOC CONTROL SIDEBAR:                 │
+│  • Statistics & metrics                 │
+│  • Historical data                      │
+│  • Export options                       │
+│                                         │
+│ 💾 JSON EXPORT:                         │
+│  • Structured output format             │
+│  • Integration-ready                    │
+│  • Timestamped results                  │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+**Tech Stack:**
+```
+ML Frameworks:  Scikit-learn • XGBoost • TensorFlow
+Data Processing: Pandas • NumPy
+NLP/Text:       NLTK • TF-IDF vectorization
+Frontend:       Streamlit (interactive dashboard)
+Data Format:    CSV input / JSON output
+```
+
+**Key Metrics:**
+- 🎯 **97% Accuracy** on 186K+ URL dataset
+- 📊 **20+ Features** engineered
+- ⚡ **Real-time** inference (< 100ms per URL)
+- 📈 **Ensemble approach** for robustness
+- 💾 **Production-ready** API & dashboard
+
+---
+
+### **3. Malware Detection & Risk Ranking System**
+
+**Timeline:** June 2024 - October 2024 | **Status:** Completed
+
+**Objectives:**
+Build an automated malware detection system with risk categorization for 1M+ files monthly.
+
+**System Capabilities:**
+
+```
+FILE INPUT (1M+ monthly)
+       ↓
+┌──────────────────────────────────────────┐
+│  ML-BASED CLASSIFICATION                 │
+├──────────────────────────────────────────┤
+│                                          │
+│ Deep Learning Model (TensorFlow):        │
+│ • Neural network architecture            │
+│ • Multi-layer feature extraction         │
+│ • Real-time classification               │
+│                                          │
+│ Detection Coverage:                      │
+│ 20+ distinct malware types               │
+│ • Trojans, Ransomware, Spyware          │
+│ • Worms, Backdoors, Rootkits             │
+│ • Botnets, Cryptominers, etc.            │
+│                                          │
+└──────────────────────────────────────────┘
+       ↓
+┌──────────────────────────────────────────┐
+│  RISK RANKING ENGINE                     │
+├──────────────────────────────────────────┤
+│                                          │
+│ Category 1: CRITICAL (Red)               │
+│  └─ Immediate action required            │
+│     (Ransomware, rootkits, APTs)        │
+│                                          │
+│ Category 2: HIGH (Orange)                │
+│  └─ Urgent security review               │
+│     (Trojans, backdoors)                 │
+│                                          │
+│ Category 3: MEDIUM (Yellow)              │
+│  └─ Monitor and track closely            │
+│     (PUPs, suspicious behavior)          │
+│                                          │
+│ Category 4: LOW (Green)                  │
+│  └─ Standard security procedures         │
+│     (Minor risks, false positives)      │
+│                                          │
+│ Category 5: INFO (Blue)                  │
+│  └─ Reference only                       │
+│     (Known benign, archives)             │
+│                                          │
+└──────────────────────────────────────────┘
+       ↓
+┌──────────────────────────────────────────┐
+│  ALERT & DASHBOARD SYSTEM                │
+├──────────────────────────────────────────┤
+│                                          │
+│ Real-time Alerts:                       │
+│ • Email/Slack notifications             │
+│ • Severity-based routing                │
+│ • Incident creation                     │
+│                                          │
+│ Visualization:                          │
+│ • Risk distribution charts              │
+│ • Timeline analytics                    │
+│ • Threat landscape overview             │
+│                                          │
+│ Reporting:                              │
+│ • Automated threat reports              │
+│ • Executive dashboards                  │
+│ • Historical trending                   │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+**Results Achieved:**
+- 🔍 **96% Detection Accuracy** using predictive models
+- ⚡ **40% Faster** threat identification vs baseline
+- 📊 **1M+ Files** processed monthly
+- 📈 **5-Category Risk** classification system
+- 🎯 **20+ Malware Types** identified
+- 🚨 **Automated Alerting** for incident response
+
+---
+
+## 🎓 **Education & Certifications**
+
+### **👨‍🎓 MSc Digital Forensics & Information Security**
+**National Forensics Science University, Delhi | Graduation: 2026**
+
+**Specialized Coursework Completed:**
+- **Unit V: Machine Learning & Deep Learning for Cybersecurity** ✅
+  - Random Forest algorithms for classification
+  - Isolation Forest for anomaly detection
+  - LSTM networks for time-series threat detection
+  - Convolutional Neural Networks (CNNs) for pattern recognition
+  - Autoencoders for unsupervised learning
+  - Comprehensive pseudocode documentation
+
+**Core Competencies:**
+- Network Security & Cryptography (AES, RSA, ECC)
+- Digital Evidence Collection & Analysis
+- SIEM Log Correlation & Threat Detection
+- OWASP Top 10 Vulnerability Classes
+- CVSS 3.1 Severity Scoring
+- IT Act 2000 Legal Framework & Compliance
+- Incident Response & Threat Hunting
+
+---
+
+### **🎓 Bachelor of Technology — Computer Science & Engineering**
+**MIT ADT University, Pune | Graduation: 2025 | GPA: 7.39/10**
+
+**Specialization:** Cyber Security and Forensics
+
+**Key Subjects:**
+- Penetration Testing & Vulnerability Assessment
+- Cryptography & Network Security Fundamentals
+- Ethical Hacking & Information Warfare
+- Digital Forensics Fundamentals
+- System & Network Administration
+- Secure Software Development
+
+---
+
+### **🏆 Cisco Certified Support Technician (CCST) — Cybersecurity**
+**Cisco | Certification Year: 2025** ✅
+
+**Validates:**
+- Network security fundamentals
+- Threat identification & analysis
+- Security tools & technologies
+- Incident response basics
+- Security best practices
+
+---
+
+## 💻 **Technical Skills Matrix**
+
+### **Programming Languages**
+| Language | Proficiency | Projects |
+|----------|------------|----------|
+| **Python** | Expert | VulnForge, PhishScope, ML projects |
+| **JavaScript** | Advanced | React frontend development |
+| **Bash** | Advanced | System administration, automation |
+| **Java** | Intermediate | Algorithms, data structures |
+| **C** | Intermediate | Low-level programming, systems |
+
+### **Forensics & Investigation Tools**
+| Tool | Use Case | Proficiency |
+|------|----------|------------|
+| **Cellebrite UFED** | Mobile device extraction | Expert |
+| **Magnet Axiom** | Multi-device investigation | Expert |
+| **Oxygen Forensic Detective** | Mobile analysis | Advanced |
+| **Mobiledit Forensic Express** | Device forensics | Advanced |
+| **IDA Pro** | Reverse engineering | Intermediate |
+| **Ghidra** | Binary analysis | Intermediate |
+
+### **Security & Pen Testing**
+| Tool | Application | Level |
+|------|-------------|-------|
+| **Burp Suite** | Web vulnerability scanning | Advanced |
+| **Wireshark** | Network packet analysis | Advanced |
+| **NMap** | Network reconnaissance | Intermediate |
+| **Wazuh** | SIEM & threat detection | Intermediate |
+
+### **Machine Learning & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **Backend & Databases**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Frontend & UI**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+
+### **DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
+
+---
+
+## 📊 **GitHub Analytics & Contributions**
+
+<div align="center">
+
+[![Darshak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshakPatel2004&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&icon_color=58a6ff&count_private=true&include_all_commits=true&line_height=27)](https://github.com/DarshakPatel2004)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DarshakPatel2004&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshakPatel2004&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=10)](https://github.com/DarshakPatel2004)
+
+</div>
+
+---
+
+## 🏆 **Achievements & Recognition**
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarshakPatel2004&theme=tokyonight&no-frame=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&margin-w=3&margin-h=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/DarshakPatel2004)
+
+</div>
+
+---
+
+## 🎯 **Looking For Opportunities**
+
+### **🤝 Collaboration & Research**
+- Threat intelligence platform development
+- ML-based security automation
+- Digital forensics tooling
+- Academic cybersecurity research partnerships
+
+### **💼 Career Goals**
+- MS in Cybersecurity (US, UK, Canada, EU universities)
+- Advanced security certifications (Security+, OSCP, GIAC)
+- Bug bounty & vulnerability research programs
+- Security research internships
+
+### **💬 Let's Discuss**
+- Advanced threat detection & response
+- Forensics workflow automation
+- ML model selection for security
+- Emerging security technologies
+- Career development in cybersecurity
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/darshakpatel.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshakpatel2004)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarshakPatel2004)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Darshak48502)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/LocksmithSea713)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diku_9603)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshakpatel2004@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### **Let's Build Secure Systems Together! 🚀**
+
+![Profile Views](https://komarev.com/ghpvc/?username=DarshakPatel2004&label=👁️+Profile+Views&color=58a6ff&style=flat-square)
+
+**Made with ❤️ by a Cybersecurity Enthusiast**
+
+*"Security is not a feature. It's a foundation for trust."*
+
+**January 2026 | Driven by Curiosity & Innovation**
+
+</div>
