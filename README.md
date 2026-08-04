@@ -23,7 +23,7 @@
 
 <br/>
 
-**📍 Pune, Maharashtra, India** | **📧 darshakpatel2004@gmail.com** | **📱 +91-9823771052**
+**📍 Pune, Maharashtra, India** | **📧 darshakpatel2004@gmail.com** 
 
 [![Cisco CCST](https://img.shields.io/badge/Cisco_CCST-Cybersecurity-00B4E4?style=flat-square)](https://cisco.com)
 [![NFSU](https://img.shields.io/badge/NFSU-MSc_Student-2C5282?style=flat-square)](https://nfsu.ac.in)
