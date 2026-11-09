@@ -93,7 +93,7 @@ Cyber Security Intern work, and what I bring to a team:
 
 | Degree | Institution | Year |
 |---|---|---|
-| **MSc Digital Forensics & Information Security** | National Forensic Sciences University, Delhi | 2026 |
+| **MSc Digital Forensics & Information Security** | National Forensic Sciences University, Delhi | 2025 |
 | **B.Tech Computer Science & Engineering** (Cyber Security & Forensics) | MIT ADT University, Pune | 2025 |
 
 **Certification:** Cisco Certified Support Technician (CCST) Cybersecurity
